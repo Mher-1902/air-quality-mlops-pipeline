@@ -1,0 +1,29 @@
+name: air-quality-mlops-pipeline
+description: Enterprise-grade MLOps pipeline for air quality time series forecasting with automated deployment, monitoring, and continuous integration.
+homepage: https://github.com/yourusername/air-quality-mlops-pipeline
+topics:
+  - mlops
+  - machine-learning
+  - air-quality
+  - time-series
+  - forecasting
+  - prophet
+  - fastapi
+  - python
+  - data-science
+  - automation
+  - ci-cd
+  - monitoring
+  - mlflow
+  - prometheus
+  - grafana
+  - github-actions
+has_issues: true
+has_projects: true
+has_wiki: true
+has_downloads: true
+default_branch: main
+allow_squash_merge: true
+allow_merge_commit: true
+allow_rebase_merge: true
+delete_branch_on_merge: true 
