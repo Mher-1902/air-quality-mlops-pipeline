@@ -175,8 +175,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - FastAPI community for the high-performance web framework
 - MLOps community for best practices and guidance
 
----
 
-**⭐ Star this repository if you find it helpful!**
 
-**🔗 Connect with us**: [LinkedIn](https://linkedin.com/in/yourusername) | [Twitter](https://twitter.com/yourusername) 
